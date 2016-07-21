@@ -1,0 +1,27 @@
+{
+  "name": "gulp-exports2json",
+  "description": "tthis plugin converts module.exports(object/function) to json.",
+  "version": "0.1.0",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/kaminaly/gulp-exports2json"
+  },
+  "keywords": [
+    "gulp",
+    "js",
+    "json",
+    "convert"
+  ],
+  "bugs": {
+    "url": "https://github.com/kaminaly/gulp-exports2json/issues"
+  },
+  "homepage": "https://github.com/kaminaly/gulp-exports2json",
+  "main": "index.js",
+  "license": "MIT",
+  "devDependencies": {},
+  "dependencies": {
+    "gulp-util": "^3.0.6",
+    "through2": "^2.0.0"
+  }
+}
