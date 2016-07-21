@@ -1,7 +1,7 @@
 {
   "name": "gulp-exports2json",
-  "description": "tthis plugin converts module.exports(object/function) to json.",
-  "version": "0.1.0",
+  "description": "this plugin converts module.exports(object/function) to json.",
+  "version": "0.1.1",
   "scripts": {},
   "repository": {
     "type": "git",
